@@ -1,0 +1,6 @@
+set solib-search-path /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//obj/local/armeabi-v7a:/home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//libs/armeabi-v7a
+directory /home/gonzalo/Development/android-ndk-r9b/platforms/android-19/arch-arm/usr/include
+directory /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//src
+directory /home/gonzalo/Development/android-ndk-r9b/sources/cxx-stl/system
+directory /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//libs/armeabi-v7a
+
