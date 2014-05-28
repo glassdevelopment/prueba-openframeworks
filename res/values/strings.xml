@@ -3,6 +3,8 @@
 
     <string name="app_name">androidEmptyExample</string>
     <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-
+	<string name="record">Record</string>
+	<string name="stop">Stop</string>
+	<string name="card_sample_text">card_sample_text</string>
+    
 </resources>

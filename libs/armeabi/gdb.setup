@@ -1,6 +1,6 @@
-set solib-search-path /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//obj/local/armeabi:/home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//libs/armeabi
-directory /home/gonzalo/Development/android-ndk-r9b/platforms/android-19/arch-arm/usr/include
-directory /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//src
-directory /home/gonzalo/Development/android-ndk-r9b/sources/cxx-stl/system
-directory /home/gonzalo/Development/OpenFrameworks/of_v0.8.1_android_release/apps/myApps/androidEmptyExample//libs/armeabi
+set solib-search-path /home/gmelo/Development/of/of_v0.8.1_android_release/examples/android/prueba-openframeworks//obj/local/armeabi:/home/gmelo/Development/of/of_v0.8.1_android_release/examples/android/prueba-openframeworks//libs/armeabi
+directory /home/gmelo/Development/android-ndk/android-ndk-r9b/platforms/android-17/arch-arm/usr/include
+directory /home/gmelo/Development/of/of_v0.8.1_android_release/examples/android/prueba-openframeworks//src
+directory /home/gmelo/Development/android-ndk/android-ndk-r9b/sources/cxx-stl/system
+directory /home/gmelo/Development/of/of_v0.8.1_android_release/examples/android/prueba-openframeworks//libs/armeabi
 

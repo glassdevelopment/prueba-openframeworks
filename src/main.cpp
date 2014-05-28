@@ -5,12 +5,12 @@
 
 int main(){
 
-	ofLogNotice("main.cpp") << "Empieza\n";
+	//ofLogNotice("main.cpp") << "Empieza\n";
 	ofSetupOpenGL(1024,768, OF_WINDOW);
 	//ofAppGlutWindow window;
 	//ofSetupOpenGL(&window, 575, 400, OF_FULLSCREEN);
 	//ofSetupOpenGL(1024,768, OF_WINDOW);			// <-------- setup the GL context
-	ofLogNotice("main.cpp") << "pasa ofSetupOpenGL\n";
+	//ofLogNotice("main.cpp") << "pasa ofSetupOpenGL\n";
 
 	// this kicks off the running of my app
 	// can be OF_WINDOW or OF_FULLSCREEN

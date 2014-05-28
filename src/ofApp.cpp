@@ -11,7 +11,7 @@ void ofApp::setup(){
 	}
 	ofLogNotice("ofApp.cpp") << "pasa ofSetFrameRate\n";
 */
-	ofLogNotice("ofApp.cpp") << "Empieza setup\n";
+	//ofLogNotice("ofApp.cpp") << "Empieza setup\n";
 	ofBackground(255,255,255);
 	ofSetOrientation(OF_ORIENTATION_90_LEFT);
 		grabber.initGrabber(320,240);
@@ -27,7 +27,7 @@ void ofApp::setup(){
 //--------------------------------------------------------------
 void ofApp::update(){
 
-	ofLogNotice("ofApp.cpp") << "Empieza update\n";
+	//ofLogNotice("ofApp.cpp") << "Empieza update\n";
 	grabber.update();
 		if(grabber.isFrameNew()){
 			frames_one_sec++;
@@ -65,8 +65,8 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
 
-	ofLogNotice("ofApp.cpp") << "Empieza draw\n";
-	if(ok_to_show)
+	//ofLogNotice("ofApp.cpp") << "Empieza draw\n";
+	//if(ok_to_show)
 		videoTexture.draw(0, 0);
 	/*
 	ofSetHexColor(0xFFFFFF);
